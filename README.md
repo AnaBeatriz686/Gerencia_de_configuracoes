@@ -1,0 +1,1 @@
+# Repositório para o trabalho de Gerência de Configuração e Controle de Versão sobre a Segunda Guerra Mundial.
